@@ -1,7 +1,7 @@
 #include "pumpstate.h"
 #include "qpainter.h"
 #include <QDebug>
-
+//输注颜色
 //绿色 0,128,0
 //蓝色 50,100,200
 //红色 255,114,86
